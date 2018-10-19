@@ -34,6 +34,8 @@ int main(int argc, char *argv[])
 	return 0;
 }
 
+
+shejo
 void can_shift_id(__u8 *type,  __u8 *func, __u8 *steps_num, __u8 *node_num, __u8 *w_c, __u8 *channel, __u32 can_id)
 {
 	if (type!=NULL) {
